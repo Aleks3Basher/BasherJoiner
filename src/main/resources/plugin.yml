@@ -1,0 +1,10 @@
+name: BasherJoiner
+version: '1.0'
+main: ru.basher.joiner.JoinerPlugin
+authors: [ Aleks_Basher ]
+api-version: 1.16
+depend: [ PlaceholderAPI ]
+commands:
+  basherjoiner:
+  setjoinmessage:
+  clearjoinmessage:

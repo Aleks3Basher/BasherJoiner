@@ -1,0 +1,121 @@
+##################################################################
+#                          BasherJoiner                          #
+##################################################################
+#
+# Author: Aleks_Basher
+# VK: https://vk.com/aleks_basher
+#
+# Команды:
+#   /basherjoiner - админ-команды
+#   /setjoinmessage - установить сообщение при входе
+#   /clearjoinmessage - убрать сообщение при входе
+# Права:
+#   basherjoiner.command.basherjoiner - доступ к /basherjoiner
+#   basherjoiner.command.setjoinmessage - доступ к /setjoinmessage
+#   basherjoiner.command.clearjoinmessage - доступ к /clearjoinmessage
+# Обязательные плагины:
+#   PlaceholderAPI
+#
+joins:
+  join1:
+    permission: 'joins.default'
+    message:
+      - '&r '
+      - '&r &2▶ &r%luckperms_prefix%&f&l {playerName}&6 взорвал танцпол'
+      - '&r '
+  join2:
+    permission: 'joins.default'
+    message:
+      - '&r '
+      - '&r &2▶ &r%luckperms_prefix%&f&l {playerName}&b забежал к нам на чашечку кофе'
+      - '&r '
+  join3:
+    permission: 'joins.default'
+    message:
+      - '&r '
+      - '&r &2▶ &r%luckperms_prefix%&f&l {playerName}&d влетел к нам на космическом корабле'
+      - '&r '
+  join4:
+    permission: 'joins.default'
+    message:
+      - '&r '
+      - '&r &2▶ &r%luckperms_prefix%&f&l {playerName}&e восстал из ада'
+      - '&r '
+  join5:
+    permission: 'joins.default'
+    message:
+      - '&r '
+      - '&r &2▶ &r%luckperms_prefix%&f&l {playerName}&3 только что прибежал. Накормите его &4<3'
+      - '&r '
+  join6:
+    permission: 'joins.default'
+    message:
+      - '&r '
+      - '&r &2▶ &r%luckperms_prefix%&f&l {playerName}&a после полёта с Илоном Маском вернулся на землю'
+      - '&r '
+  join7:
+    permission: 'joins.default'
+    message:
+      - '&r '
+      - '&r &2▶ &r%luckperms_prefix%&f&l {playerName}&6 присоединился к нашей вечеринке. Тащите водяру'
+      - '&r '
+  join8:
+    permission: 'joins.default'
+    message:
+      - '&r '
+      - '&r &2▶ &r%luckperms_prefix%&f&l {playerName}&e принёс нам пиццу.'
+      - '&r '
+  join9:
+    permission: 'joins.default'
+    message:
+      - '&r '
+      - '&r &2▶ &r%luckperms_prefix%&f&l {playerName}&c вернулся к нам. Делаем вид, что мы все заняты!'
+      - '&r '
+  join10:
+    permission: 'joins.default'
+    message:
+      - '&r '
+      - '&r &2▶ &r%luckperms_prefix%&f&l {playerName}&b подключился к земле. &3Приём...'
+      - '&r '
+  join11:
+    permission: 'joins.default'
+    message:
+      - '&r '
+      - '&r &2▶ &r%luckperms_prefix%&f&l {playerName}&d явился на сервер. Не его-ли мы искали?'
+      - '&r '
+  join12:
+    permission: 'joins.default'
+    message:
+      - '&r '
+      - '&r &2▶ &r%luckperms_prefix%&f&l {playerName}&6 смотрите кто к нам присоединился! Тащите пиво'
+      - '&r '
+  join13:
+    permission: 'joins.default'
+    message:
+      - '&r '
+      - '&r &2▶ &r%luckperms_prefix%&f&l {playerName}&b заглянул к нам на сервер и крикнул: &3олды здесь?'
+      - '&r '
+  join14:
+    permission: 'joins.default'
+    message:
+      - '&r '
+      - '&r &2▶ &r%luckperms_prefix%&f&l {playerName}&c собрал все снаряжения и приготовился к бою'
+      - '&r '
+  join15:
+    permission: 'joins.default'
+    message:
+      - '&r '
+      - '&r &2▶ &r%luckperms_prefix%&f&l {playerName}&9 пришёл нагибать читеров'
+      - '&r '
+  join16:
+    permission: 'joins.default'
+    message:
+      - '&r '
+      - '&r &2▶ &r%luckperms_prefix%&f&l {playerName}&6 одолжил трон царя. Приклонитесь перед ним'
+      - '&r '
+  join17:
+    permission: 'joins.default'
+    message:
+      - '&r '
+      - '&r &2▶ &r%luckperms_prefix%&f&l {playerName}&c миллиардер, плейбой, филантроп здесь'
+      - '&r '

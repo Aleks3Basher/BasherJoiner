@@ -1,0 +1,23 @@
+noPerms:
+  - '&cИзвините, но у Вас нет прав для доступа к этой команде'
+joinNotFound:
+  - '&cСообщение с таким ID не была найдена'
+
+admin:
+  usage:
+    - '&r &r &r &r &r &6&lBasherJoiner'
+    - '&f/basherjoiner reload'
+  reloadSuccess:
+    - '&aКонфиги были перезагружены'
+
+setjoinmessage:
+  usage:
+    - '&eИспользовать&8: &f/setjoinmessage ID'
+  noAccess:
+    - '&cВы не можете установить это сообщение, так как у Вас слишком низкий донат'
+  success:
+    - '&aВы установили сообщение при входе!'
+
+clearjoinmessage:
+  success:
+    - '&aВы убрали сообщение при входе!'
